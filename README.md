@@ -25,6 +25,13 @@
 
   <br/>
     <a href="https://github.com/paharikoki/github-readme-stats"><img alt="Paharikoki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=paharikoki&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    
+## Some of my stats :bar_chart:
+
+<img src="https://github-readme-stats.vercel.app/api?username=techytushar&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"><img src="https://github-readme-stackoverflow.vercel.app/?userID=5679285&theme=dark" height="250"></a>
+|--|--|
+
+<br>
   <a href="https://github.com/paharikoki/github-readme-stats"><img alt="Paharikoki's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paharikoki&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
