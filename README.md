@@ -5,13 +5,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Front End Programming.**
+- 🌱 I’m currently learning **Back End Programming.**
+
+- :writing_hand: I'm learning **Python, Javascript & Golang**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 📫 How to reach me **paharikoki@gmail.com**
+- ⚡ I love playing strategy games, Fps & Simulation.
 
-- ⚡ I love playing strategy games, and Design Graphic.
+- :art: I like to build views application
+
+- 📫 How to reach me **paharikoki@gmail.com**
 
 <br/>
 
@@ -43,8 +47,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://twitter.com/paharikoki"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/paharikoki/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+ <a href = "https://www.instagram.com/ahmadalan28/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+ <a href = "https://web.facebook.com/people/Ahmad-Alan/100009959614136/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 
 </p>
 
