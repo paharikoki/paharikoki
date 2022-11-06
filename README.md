@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Back End Programming.**
 
-- :writing_hand: I'm learning **Python, Javascript & Golang**
+- :writing_hand: I'm learning **Python, Javascript & Laravel**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
