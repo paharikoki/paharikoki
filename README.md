@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello, I'm Ahmad Alan Lestari</h1>
-<h3 align="center">Programming is a side job, the main job is sleep everytime.</h3>
+<h3 align="center">Programming is a side job, the main job is sleep everytime. :trollface:</h3>
 
 
 ## 🙋‍♂️ About Me
