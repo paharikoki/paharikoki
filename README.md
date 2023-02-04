@@ -43,7 +43,7 @@
 </div>
 
 <div style="display:flex;">
-    
+<img width="100%" align="right" alt="Snake" src="https://github.com/anKordii/anKordii/blob/output/github-contribution-grid-snake.svg"><br>
 ## Connect with me:
 <p align="left">
 
@@ -51,8 +51,6 @@
  <a href = "https://web.facebook.com/people/Ahmad-Alan/100009959614136/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 
 </p>
-
-## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=paharikoki">
 </a>
