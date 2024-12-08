@@ -1,13 +1,13 @@
 
 <h1 align="center">Hello, I'm Ahmad Alan Lestari</h1>
-<h3 align="center">Programming is a side job, the main job is sleep everytime. :trollface:</h3>
+<h3 align="center">likes to learn new technologies :man_technologist:</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Back End Programming.**
 
-- :writing_hand: I'm learning **Python, Java, Javascript & Laravel**
+- :writing_hand: I'm learning **Python, Java, Javascript Framework & Laravel**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
@@ -21,15 +21,15 @@
 
 ## :notebook_with_decorative_cover: Languages :
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,dart,dotnet,py,php,nodejs,vue,spring,react,nextjs,flutter,fastapi,laravel&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,dart,dotnet,py,php,nodejs,vue,react,nextjs,flutter,fastapi,laravel&theme=dark&perline=6)](https://skillicons.dev)
 
 ## :computer: Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=linux,visualstudio,idea,git&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,idea,git,postman,notion,bash&theme=dark&perline=6)](https://skillicons.dev)
 
 ## :fountain_pen: Design Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,pr,ai,sketchup&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,pr,ai,sketchup&theme=dark&perline=6)](https://skillicons.dev)
 
 
 <h2> 📊 My Github Stats : </h2>
